@@ -2,7 +2,7 @@
 $servername="localhost";
 $username="root";
 $password="";
-$dbname = "webalumni";
+$dbname = "db_siswa";
 
 //koneksi dengan mysql
 $conn = mysqli_connect($servername,$username,$password,$dbname);
